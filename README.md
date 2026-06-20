@@ -1,26 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0077B5&height=200&section=header&text=Ianjaner%20Beltran&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ianjaner+Beltran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend+Developer+%7C+Java+21+Spring+Boot&descAlignY=55&descSize=16"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+Junior+%F0%9F%9A%80;Java+21+%2B+Spring+Boot+%2B+Docker+%E2%98%81%EF%B8%8F;Ponente+Internacional+CICOM+2025+%F0%9F%8E%A4;Abierto+a+nuevas+oportunidades+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Desarrollador+Backend+Junior+%F0%9F%9A%80;Java+21+%2B+Spring+Boot+%2B+Docker;Ponente+Internacional+CICOM+2025+%F0%9F%8E%A4;Abierto+a+nuevas+oportunidades+%F0%9F%92%BC" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <div align="left">
 
 ```java
 public class IanjanerBeltran {
 
-    String titulo     = "Desarrollador Backend Junior";
-    String ubicacion  = "Bogotá, Colombia 🇨🇴";
-    String[] stack    = {"Java 21", "Spring Boot", 
-                         "Docker", "PostgreSQL", "GCP"};
-    String logro      = "Ponente Internacional CICOM 2025 🎤";
-    boolean disponible = true; // ✅ Open to work
+    String titulo      = "Desarrollador Backend Junior";
+    String ubicacion   = "Bogota, Colombia";
+    String stack       = "Java 21, Spring Boot, Docker, PostgreSQL, GCP";
+    String logro       = "Ponente Internacional CICOM 2025";
+    boolean disponible = true;
 
 }
 ```
@@ -31,7 +30,7 @@ public class IanjanerBeltran {
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://ianjaner-55.lovable.app/">
-  <img src="https://img.shields.io/badge/🌐_Portafolio-00D4AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Portafolio-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="mailto:ianjaner55@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -43,25 +42,25 @@ public class IanjanerBeltran {
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
-### 🏆 Proyecto Fintech — Ecosistema de Microservicios
-> **Líder de desarrollo Backend** | Java 21 · Spring Boot 3 · Python · ML Engine
+### Proyecto Fintech — Ecosistema de Microservicios
+**Lider de desarrollo Backend** | Java 21 · Spring Boot 3 · Python · ML Engine
 
-Ecosistema de microservicios para la **predicción de Churn** de tarjetas de crédito, integrado con motor de Machine Learning en Python.
+Ecosistema de microservicios para la prediccion de Churn de tarjetas de credito, integrado con motor de Machine Learning en Python.
 
 [![Fintech](https://github-readme-stats.vercel.app/api/pin/?username=ianjaner75&repo=Proyecto-Fintech-Alura-Oracle&theme=tokyonight&hide_border=true)](https://github.com/ianjaner75/Proyecto-Fintech-Alura-Oracle)
 
-### 🎤 udParents — Control Parental (CICOM 2025)
-> **Presentado en el 15° Congreso Internacional de Computación** | Kotlin · Firebase
+### udParents — Control Parental CICOM 2025
+**Presentado en el 15 Congreso Internacional de Computacion** | Kotlin · Firebase
 
-Aplicación móvil Android para control parental inteligente, presentada como artículo técnico ante audiencia internacional.
+Aplicacion movil Android para control parental inteligente, presentada como articulo tecnico ante audiencia internacional.
 
 [![udParents](https://github-readme-stats.vercel.app/api/pin/?username=ianjaner75&repo=udParents-Control-Parental&theme=tokyonight&hide_border=true)](https://github.com/ianjaner75/udParents-Control-Parental)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnologico
 
 <div align="center">
 
@@ -78,7 +77,7 @@ Aplicación móvil Android para control parental inteligente, presentada como ar
 
 ---
 
-## 📊 Estadísticas
+## Estadisticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianjaner75&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -91,24 +90,24 @@ Aplicación móvil Android para control parental inteligente, presentada como ar
 
 ---
 
-## 🐍 Mis contribuciones
+## Actividad en GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ianjaner75/ianjaner75/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ianjaner75&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
 
-## 🎯 Sobre mí
+## Sobre mi
 
-- 🎓 Tecnólogo en Sistematización de Datos — **U. Distrital Francisco José de Caldas**
-- 📚 Estudiante de **Ingeniería en Telemática**
-- 🏅 Certificado **Oracle Cloud Infrastructure Foundations Associate**
-- 🎤 **Ponente Internacional CICOM 2025**
-- 🚀 Disponible para nuevas oportunidades en backend
+- Tecnologo en Sistematizacion de Datos — U. Distrital Francisco Jose de Caldas
+- Estudiante de Ingenieria en Telematica
+- Certificado Oracle Cloud Infrastructure Foundations Associate
+- Ponente Internacional CICOM 2025
+- Disponible para nuevas oportunidades en backend
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D4AA&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
